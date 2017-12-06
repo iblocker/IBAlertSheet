@@ -95,6 +95,7 @@ static CGFloat alertSheetHeight = 180;
 - (void)btnAction:(UIButton *)btn {
     [self ib_hidden];
 }
+
 //- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
 //    UITouch *touch = [touches anyObject];
 //    if (touch.view != self.paywayView) {
